@@ -49,6 +49,7 @@ frameworks:
     - breeze
     - kinit
     - kcmutils
+    - kdelibs4support
     - dolphin-plugins
     - kparts
 type: git
