@@ -56,6 +56,7 @@ frameworks:
     - kemoticons
     - kitemmodels
     - kdelibs4support
+    - dolphin
     - dolphin-plugins
     - kparts
 type: git
