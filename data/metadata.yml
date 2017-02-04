@@ -52,6 +52,7 @@ frameworks:
     - kdesignerplugin
     - kparts
     - kunitconversion
+    - kded
     - kdelibs4support
     - dolphin-plugins
     - kparts
