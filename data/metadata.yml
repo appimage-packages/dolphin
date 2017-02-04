@@ -54,6 +54,7 @@ frameworks:
     - kunitconversion
     - kded
     - kemoticons
+    - kitemmodels
     - kdelibs4support
     - dolphin-plugins
     - kparts
