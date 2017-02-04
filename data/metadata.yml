@@ -50,6 +50,7 @@ frameworks:
     - kinit
     - kcmutils
     - kdesignerplugin
+    - kparts
     - kdelibs4support
     - dolphin-plugins
     - kparts
