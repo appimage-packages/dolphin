@@ -51,6 +51,7 @@ frameworks:
     - kcmutils
     - kdesignerplugin
     - kparts
+    - kunitconversion
     - kdelibs4support
     - dolphin-plugins
     - kparts
