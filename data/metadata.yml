@@ -49,6 +49,7 @@ frameworks:
     - breeze
     - kinit
     - kcmutils
+    - kdesignerplugin
     - kdelibs4support
     - dolphin-plugins
     - kparts
