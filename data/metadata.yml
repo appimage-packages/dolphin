@@ -60,7 +60,6 @@ frameworks:
     - syntax-highlighting
     - ktexteditor
     - dolphin-plugins
-    - kparts
 type: git
 url: http://anongit.kde.org/dolphin
 buildsystem: cmake
