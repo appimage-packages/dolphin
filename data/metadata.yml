@@ -57,6 +57,7 @@ frameworks:
     - kitemmodels
     - kdelibs4support
     - dolphin
+    - ktexteditor
     - dolphin-plugins
     - kparts
 type: git
